@@ -1,0 +1,25 @@
+div.container-fluid
+  table.table.table-striped.table-bordered
+    thead.thead-dark
+      th Raum
+      - @Timeslots.reject{|ts| ts.typus!= "ak"}.each do |ts|
+        th =ts.name
+    tbody
+      - @Rooms.each do |room|
+        tr 
+          td
+            b = room.name
+          - @Timeslots.reject{|ts| ts.typus!= "ak"}.each do |ts|
+            - ak= Ak.where(room:room,timeslot:ts).first
+            -if ak.nil?
+              td -
+            -else
+              td
+                h5
+                  = ak.name
+                  |&nbsp;
+                  small 
+                    = room.name
+                - ak.persons.each_with_index do |person,i|
+                  =person.name
+                  = ", " unless i==ak.persons.count-1

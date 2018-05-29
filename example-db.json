@@ -1,0 +1,278 @@
+{
+    "name": "ZaPF App Database",
+    "slots": [{
+        "name": "Anfangsplenum",
+        "begin": "Mi 17:00",
+        "finish": "2018-05-30T23:00:00+0200",
+        "place": "",
+        "type": "plenum",
+        "end": "23:00",
+        "timestamp": 1527699600
+    }, {
+        "name": "Geselligkeit",
+        "begin": "Mi 23:00",
+        "finish": "2018-05-31T02:00:00+0200",
+        "place": "",
+        "type": "social",
+        "end": "02:00",
+        "timestamp": 1527721200
+    }, {
+        "name": "Fr\u00fchst\u00fcck",
+        "begin": "Do 06:30",
+        "finish": "2018-05-31T08:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "08:00",
+        "timestamp": 1527748200
+    }, {
+        "name": "AK I",
+        "aks": [],
+        "begin": "Do 08:00",
+        "finish": "2018-05-31T10:00:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "10:00",
+        "timestamp": 1527753600
+    }, {
+        "name": "Pause",
+        "begin": "Do 10:00",
+        "finish": "2018-05-31T10:30:00+0200",
+        "place": "",
+        "type": "else",
+        "end": "10:30",
+        "timestamp": 1527760800
+    }, {
+        "name": "AK II",
+        "aks": [],
+        "begin": "Do 10:30",
+        "finish": "2018-05-31T12:30:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "12:30",
+        "timestamp": 1527762600
+    }, {
+        "name": "Mittagessen",
+        "begin": "Do 12:30",
+        "finish": "2018-05-31T14:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "14:00",
+        "timestamp": 1527769800
+    }, {
+        "name": "AK III",
+        "aks": [],
+        "begin": "Do 14:00",
+        "finish": "2018-05-31T16:00:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "16:00",
+        "timestamp": 1527775200
+    }, {
+        "name": "Ankunft & Chilli",
+        "begin": "Do 15:00",
+        "finish": "2018-05-31T17:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "17:00",
+        "timestamp": 1527778800
+    }, {
+        "name": "Pause",
+        "begin": "Do 16:00",
+        "finish": "2018-05-31T16:30:00+0200",
+        "place": "",
+        "type": "else",
+        "end": "16:30",
+        "timestamp": 1527782400
+    }, {
+        "name": "AK IV",
+        "aks": [{
+            "name": "AK Vernetzung der ZaPF Orgas",
+            "room": "SR 1.404",
+            "url": "",
+            "responsible": "Jenny (FUB)"
+        }],
+        "begin": "Do 16:30",
+        "finish": "2018-05-31T18:30:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "18:30",
+        "timestamp": 1527784200
+    }, {
+        "name": "Grillen & Geselligkeit",
+        "begin": "Do 18:30",
+        "finish": "2018-06-01T02:00:00+0200",
+        "place": "",
+        "type": "social",
+        "end": "02:00",
+        "timestamp": 1527791400
+    }, {
+        "name": "Fr\u00fchst\u00fcck",
+        "begin": "Fr 06:30",
+        "finish": "2018-06-01T08:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "08:00",
+        "timestamp": 1527834600
+    }, {
+        "name": "Exkursionen",
+        "begin": "Fr 08:00",
+        "finish": "2018-06-01T12:30:00+0200",
+        "place": "",
+        "type": "social",
+        "end": "12:30",
+        "timestamp": 1527840000
+    }, {
+        "name": "Mittagessen (Mensa A/B)",
+        "begin": "Fr 12:30",
+        "finish": "2018-06-01T14:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "14:00",
+        "timestamp": 1527856200
+    }, {
+        "name": "AK-Vorstellung",
+        "begin": "Fr 14:00",
+        "finish": "2018-06-01T15:30:00+0200",
+        "place": "",
+        "type": "plenum",
+        "end": "15:30",
+        "timestamp": 1527861600
+    }, {
+        "name": "Pause",
+        "begin": "Fr 15:30",
+        "finish": "2018-06-01T16:00:00+0200",
+        "place": "",
+        "type": "else",
+        "end": "16:00",
+        "timestamp": 1527867000
+    }, {
+        "name": "Postersession",
+        "begin": "Fr 16:00",
+        "finish": "2018-06-01T18:30:00+0200",
+        "place": "",
+        "type": "plenum",
+        "end": "18:30",
+        "timestamp": 1527868800
+    }, {
+        "name": "Abendessen",
+        "begin": "Fr 18:30",
+        "finish": "2018-06-01T20:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "20:00",
+        "timestamp": 1527877800
+    }, {
+        "name": "Kneipentour",
+        "begin": "Fr 20:00",
+        "finish": "2018-06-02T02:00:00+0200",
+        "place": "",
+        "type": "social",
+        "end": "02:00",
+        "timestamp": 1527883200
+    }, {
+        "name": "Fr\u00fchst\u00fcck",
+        "begin": "Sa 07:30",
+        "finish": "2018-06-02T09:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "09:00",
+        "timestamp": 1527924600
+    }, {
+        "name": "AK V",
+        "aks": [],
+        "begin": "Sa 09:00",
+        "finish": "2018-06-02T11:00:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "11:00",
+        "timestamp": 1527930000
+    }, {
+        "name": "Pause",
+        "begin": "Sa 11:00",
+        "finish": "2018-06-02T11:30:00+0200",
+        "place": "",
+        "type": "else",
+        "end": "11:30",
+        "timestamp": 1527937200
+    }, {
+        "name": "AK VI",
+        "aks": [],
+        "begin": "Sa 11:30",
+        "finish": "2018-06-02T13:30:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "13:30",
+        "timestamp": 1527939000
+    }, {
+        "name": "Mittagessen",
+        "begin": "Sa 13:30",
+        "finish": "2018-06-02T15:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "15:00",
+        "timestamp": 1527946200
+    }, {
+        "name": "AK VII",
+        "aks": [],
+        "begin": "Sa 15:00",
+        "finish": "2018-06-02T17:00:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "17:00",
+        "timestamp": 1527951600
+    }, {
+        "name": "Pause",
+        "begin": "Sa 17:00",
+        "finish": "2018-06-02T17:30:00+0200",
+        "place": "",
+        "type": "else",
+        "end": "17:30",
+        "timestamp": 1527958800
+    }, {
+        "name": "BU-AK",
+        "aks": [],
+        "begin": "Sa 17:30",
+        "finish": "2018-06-02T19:30:00+0200",
+        "place": "",
+        "type": "ak",
+        "end": "19:30",
+        "timestamp": 1527960600
+    }, {
+        "name": "Abendessen",
+        "begin": "Sa 19:30",
+        "finish": "2018-06-02T20:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "20:00",
+        "timestamp": 1527967800
+    }, {
+        "name": "Party",
+        "begin": "Sa 21:00",
+        "finish": "2018-06-02T02:00:00+0200",
+        "place": "",
+        "type": "social",
+        "end": "02:00",
+        "timestamp": 1527973200
+    }, {
+        "name": "Fr\u00fchst\u00fcck",
+        "begin": "So 07:30",
+        "finish": "2018-06-03T09:00:00+0200",
+        "place": "",
+        "type": "food",
+        "end": "09:00",
+        "timestamp": 1528011000
+    }, {
+        "name": "Endplenum",
+        "begin": "So 09:00",
+        "finish": "2018-06-03T18:00:00+0200",
+        "place": "",
+        "type": "plenum",
+        "end": "18:00",
+        "timestamp": 1528016400
+    }],
+    "news": [{
+        "msg": "Die Heidelberger Orga sucht noch nach ProtokollantInnen f\u00fcr die Plenen. Wer gut zuh\u00f6ren und schnell tippen kann, ist herzlich eingeladen sich im Engelsystem (engel.zapfinhd.de) einzutragen.\r\n\r\nLiebe Gr\u00fc\u00dfe\r\nEure Heidelberger Orga",
+        "date": "vor 4 Tagen"
+    }],
+    "version": "2.0"
+}
