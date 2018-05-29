@@ -117,9 +117,11 @@ GEM
     nio4r (2.3.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    passenger (5.3.1)
+      rack
+      rake (>= 0.8.1)
     popper_js (1.12.9)
     public_suffix (3.0.2)
-    puma (3.11.4)
     rack (2.0.5)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
@@ -224,7 +226,7 @@ DEPENDENCIES
   jquery-rails
   listen (>= 3.0.5, < 3.2)
   material_icons
-  puma (~> 3.11)
+  passenger
   rails (~> 5.2.0)
   ripper-tags
   sass-rails (~> 5.0)
